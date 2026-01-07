@@ -9,13 +9,13 @@
         <version>${revision}</version>
     </parent>
 
-    <artifactId>fakeplayer-v1_21_10</artifactId>
+    <artifactId>fakeplayer-v1_21_11</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <nms.version>1.21.10-R0.1-SNAPSHOT</nms.version>
+        <nms.version>1.21.11-R0.1-SNAPSHOT</nms.version>
     </properties>
 
     <dependencies>
