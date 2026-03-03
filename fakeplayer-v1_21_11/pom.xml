@@ -15,7 +15,7 @@
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <nms.version>1.21.11-R0.1-SNAPSHOT</nms.version>
+        <nms.version>1.21.11-R0.2-SNAPSHOT</nms.version>
     </properties>
 
     <dependencies>
